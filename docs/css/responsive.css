@@ -1,0 +1,13 @@
+@media (max-width:991px) {
+
+    .about{
+        position: absolute;
+        top: 150px;
+        left: 15px;
+        color: aliceblue;
+        font-size: 20px;
+        line-height: 14px;
+        font-family: 'Poppins', sans-serif;
+       }
+    
+}
